@@ -1,0 +1,91 @@
+body {
+	font-family: tahoma;
+}
+.main-header {
+text-align: center;
+	font-size: 24px;
+	line-height: 1.5;
+	color: #333333;
+	margin-top: 80px;
+}
+.main-header span {
+	display: block;
+	font-weight: 300;
+}
+.main-header strong {
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.main {
+	text-align: center;
+	margin-top: 83px;
+}
+.section {
+	padding: 30px 10%;
+}
+.video, .form {
+	display: inline-block;
+		vertical-align: top; /*выравнивание по верху*/
+}
+.form {
+	margin-left: 30px;
+	text-align: center;
+border: 5px solid #2727d9;
+padding: 20px;
+
+}
+.form-header {
+text-align: center;
+font-style: 20px;
+font-weight: 900;
+margin-bottom: 30px;
+
+}
+.form input {
+	display: block;
+	margin-top: 10px;
+	width: 300px;
+	padding: 17px;
+	border: 1px solid #333;
+	font-style: 18px;
+}
+.form button {
+font-size: 18px;
+font-weight: 900;
+color: #fff;
+background-color: #2727d9;
+width: 300px;
+height: 50px;
+border: none;
+margin-top: 10px;
+
+}
+.feature {
+	margin-top: 60px;
+	text-align: center;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 50px;
+
+}
+.section-header {
+text-align: center;
+text-transform: uppercase;
+font-weight: 900;
+font-size: 24px;
+}
+
+.feature-btn {
+font-size: 18px;
+font-weight: 900;
+color: #fff;
+background-color: #2727d9;
+width: 300px;
+height: 50px;
+border: none;
+display: block;
+margin: 40px auto;
+}
+	
